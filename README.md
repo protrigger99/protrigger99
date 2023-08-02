@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @protrigger99
-- 👀 I’m interested in Data analytics and Machine learning
+- 👀 I’m interested in Artificial Intelligence and Machine learning
 - 🌱 I’m currently learning Python and C language
 - 💞️ I’m looking to collaborate on Designing and Development
 - 📫 How to reach me 
