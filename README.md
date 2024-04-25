@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @protrigger99
-- 👀 I’m interested in Artificial Intelligence and Machine learning
-- 🌱 I’m currently learning Python and C language
-- 💞️ I’m looking to collaborate on Designing and Development
+- 👋 Hi, I’m Rishi (@protrigger99)
+- 👀 I’m interested in Artificial Intelligence,Machine learning and Cryptography
+- 🌱 I’m currently exploring Cybersecurity (Cryptographic Encryption)
+- 💞️ I’m looking to collaborate on hands-on Cybersecurity problems
 - 📫 How to reach me 
-mail: rishi.nelapati2003@gmail.com
+mail: Devendra.Nelapati@iiitb.ac.in
 
 <!---
 protrigger99/protrigger99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
